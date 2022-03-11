@@ -1,4 +1,4 @@
-# ChromeErrorPages
+# ChromeSafeBrowsingPages
 Making copies of Chrome's safe browsing pages
 
 Example of what they all look like
