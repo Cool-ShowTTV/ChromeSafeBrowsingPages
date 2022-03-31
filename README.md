@@ -1,6 +1,10 @@
 # ChromeSafeBrowsingPages
 Making copies of Chrome's safe browsing pages
 
+## Note
+Addons like "Dark Reader" that change site page css to diffrent things can cause problems.<br>
+I more than likly won't/can't fix the problem and won't be looking into it right now.
+
 ## Want me to copy one of the other pages?
 [Leave a issue with the page name and image](https://github.com/Cool-showTTV/ChromeSafeBrowsingPages/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
 
